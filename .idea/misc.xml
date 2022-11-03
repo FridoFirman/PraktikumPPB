@@ -3,11 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidSDK/app/src/main/res/drawable/ic_baseline_people_alt_24.xml" value="0.1145" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/layout/activity_day2.xml" value="0.19791666666666666" />
         <entry key="..\:/AndroidSDK/app/src/main/res/layout/activity_day3.xml" value="0.22" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/layout/activity_day4.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/layout/activity_day4_second.xml" value="0.19791666666666666" />
         <entry key="..\:/AndroidSDK/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/AndroidSDK/app/src/main/res/layout/activity_second.xml" value="0.25" />
-        <entry key="..\:/AndroidSDK/app/src/main/res/layout/fragment_main.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/layout/fragment_day4_detail.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/layout/fragment_day4_first.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/layout/fragment_day4_home.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/layout/fragment_day4_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/layout/fragment_day4_second.xml" value="0.1118659420289855" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/layout/fragment_day4_user.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/layout/fragment_main.xml" value="0.16" />
         <entry key="..\:/AndroidSDK/app/src/main/res/layout/item_row_hero.xml" value="0.22" />
+        <entry key="..\:/AndroidSDK/app/src/main/res/menu/day_4_menu.xml" value="0.25" />
       </map>
     </option>
   </component>
